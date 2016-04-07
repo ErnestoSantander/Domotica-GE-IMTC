@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DomoticApp</string>
+    <string name="Hola">Hola</string>
+    <string name="login">Entrar</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="user_hint">Usuario</string>
+    <string name="nombreDeUsuario">Nombre de Usuario</string>
+</resources>
